@@ -11,9 +11,10 @@ This repository implements a deep learning-based voice number authentication sys
 - Dataset Handling: Supports labeled audio datasets with numerical recordings given by kaggle.[datset link](https://www.kaggle.com/datasets/sripaadsrinivasan/audio-mnist)
 
 - Training & Evaluation: Implements robust training with data augmentation and real-time validation.
-
+    - Training stat
+       ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/download.png)
     - Ealuation report
-                  ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/download%20(1).png))
+      ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/download%20(1).png))
 
 ```python 
                   precision    recall  f1-score   support
