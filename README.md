@@ -45,7 +45,7 @@ Use the kaggle dataset for this .Mainly do the compares the two audio file in sa
 
 1.Clone the repository:
 ```python
-git clone https://github.com/your-username/Numerical-Audio-Authentication-System.git
+git clone https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning.git
 cd Numerical-Audio-Authentication-System
 ```
 
