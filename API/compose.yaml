@@ -12,7 +12,7 @@ services: # Defines a list of services (containers) that Docker Compose will man
     build:      #Specifies that Docker should build an image instead of using an existing one.
       context: . #This means the Dockerfile in this directory will be used to build the image.
 
-    image: voice_authentication-image #Assigns a name to the built image
+    image: voice_authentication-image:1.0.0 #Assigns a name to the built image and version
     ports:
       - 8000:8000  #This means requests to localhost:8000 on your computer will be forwarded to port 8000 in the container
 

@@ -16,7 +16,7 @@ from app.src.voice_authentication import inference_voice_authent
 warnings.filterwarnings("ignore")
 
 
-app=FastAPI(title="Project s",
+app=FastAPI(title="audio-authentication",
     description="FastAPI",
     version="0.115.4")
 
