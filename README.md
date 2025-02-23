@@ -13,7 +13,7 @@ This repository implements a deep learning-based voice number authentication sys
 - Training & Evaluation: Implements robust training with data augmentation and real-time validation.
 
     - Ealuation report
-                  ![image](src_img/download (1).png)
+                  ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/download%20(1).png))
 
 ```python 
                   precision    recall  f1-score   support
