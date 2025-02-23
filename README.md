@@ -8,11 +8,12 @@ This repository implements a deep learning-based voice number authentication sys
 
 - Triplet Loss / Contrastive Loss: Optimized for better feature embedding and verification accuracy.
 
-- Dataset Handling: Supports labeled audio datasets with numerical recordings.
+- Dataset Handling: Supports labeled audio datasets with numerical recordings given by kaggle.[datset link](https://www.kaggle.com/datasets/sripaadsrinivasan/audio-mnist)
 
 - Training & Evaluation: Implements robust training with data augmentation and real-time validation.
 
-    - aluation report 
+    - Ealuation report
+                  ![image](src_img/download (1).png)
 
 ```python 
                   precision    recall  f1-score   support
