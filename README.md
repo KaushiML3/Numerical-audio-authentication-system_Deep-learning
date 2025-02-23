@@ -14,9 +14,9 @@ This repository implements a deep learning-based voice number authentication sys
     - Training stat
        ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/download.png)
     - Ealuation report
-      ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/download%20(1).png))
+    - ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/download%20(1).png))
 
-        ```python 
+  ```python 
                   precision    recall  f1-score   support
 
         real       0.92      0.94      0.93      1457
@@ -25,8 +25,7 @@ This repository implements a deep learning-based voice number authentication sys
     accuracy                           0.93      3000
    macro avg       0.93      0.93      0.93      3000
 weighted avg       0.93      0.93      0.93      3000
-
-            ```
+```
 
 - Inference & Authentication:This uses two input audios that may or may not match the two audio files.
 
