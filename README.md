@@ -1,6 +1,8 @@
 # Numerical-audio-authentication-system_Deep-learning
 This repository implements a deep learning-based voice number authentication system using CNN and a Siamese Network. It verifies spoken numbers by comparing voice embeddings to reference samples. The model extracts audio features (MFCC, spectrogram) using CNN and determines similarity through a Siamese architecture. 
 
+Use the kaggle dataset for this .Mainly do the compares the two audio file in same person same number different audio to training the model.
+
 # 📌 Features
 - Audio Preprocessing: Extracts MFCCs, Waveforms from numerical audio inputs.
 
@@ -31,3 +33,18 @@ This repository implements a deep learning-based voice number authentication sys
 - Inference & Authentication:This uses two input audios that may or may not match the two audio files.
 
 - Deployment Ready: Can be integrated into real-world authentication systems.
+
+-![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(94).png)
+-![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(95).png)
+-![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(96).png)
+
+
+
+
+# 🛠️ Setup & Installation
+
+1.Clone the repository
+```python
+git clone https://github.com/your-username/Numerical-Audio-Authentication-System.git
+cd Numerical-Audio-Authentication-System
+```
