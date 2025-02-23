@@ -34,17 +34,32 @@ Use the kaggle dataset for this .Mainly do the compares the two audio file in sa
 
 - Deployment Ready: Can be integrated into real-world authentication systems.
 
--![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(94).png)
--![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(95).png)
--![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(96).png)
-
+        -![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(94).png)
+        -![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(95).png)
+        -![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(96).png)
+        
 
 
 
 # 🛠️ Setup & Installation
 
-1.Clone the repository
+1.Clone the repository:
 ```python
 git clone https://github.com/your-username/Numerical-Audio-Authentication-System.git
 cd Numerical-Audio-Authentication-System
 ```
+
+2.Install dependencies:
+```python
+pip install -r requirements.txt
+
+```
+
+3.Run inference
+- change the direction for API folder
+```python
+python main.py
+
+```
+
+
