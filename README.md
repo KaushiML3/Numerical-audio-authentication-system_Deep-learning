@@ -34,9 +34,9 @@ Use the kaggle dataset for this .Mainly do the compares the two audio file in sa
 
 - Deployment Ready: Can be integrated into real-world authentication systems.
 
-        -![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(94).png)
-        -![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(95).png)
-        -![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(96).png)
+        ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(94).png)
+        ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(95).png)
+        ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/Screenshot%20(96).png)
         
 
 
