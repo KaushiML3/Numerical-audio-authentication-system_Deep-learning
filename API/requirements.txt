@@ -1,0 +1,15 @@
+tensorflow==2.18.0
+keras==3.8.0
+#transformers==4.48.3
+scikit-learn==1.6.1
+#torch==2.5.1
+
+numpy==1.26.4
+pandas==2.2.2
+librosa==0.10.2
+tensorflow_hub==0.16.1
+
+
+fastapi== 0.115.8
+uvicorn==0.34.0
+python-multipart== 0.0.19
