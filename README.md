@@ -3,7 +3,7 @@ This repository implements a deep learning-based voice number authentication sys
 
 Use the kaggle dataset for this .Mainly do the compares the two audio file in same person same number different audio to training the model.
 
-## inference
+# inference
 ![image](https://github.com/KaushiML3/Numerical-audio-authentication-system_Deep-learning/blob/main/src_img/audio_auth%20(1).gif)
 
 
