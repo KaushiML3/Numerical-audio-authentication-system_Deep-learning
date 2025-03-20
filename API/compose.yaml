@@ -7,14 +7,13 @@
 # You can add other services your application may depend on here, such as a
 # database or a cache. For examples, see the Awesome Compose repository:
 # https://github.com/docker/awesome-compose
-services: # Defines a list of services (containers) that Docker Compose will manage.
-  ml_app: #This is the name of the service (your container will be called server).You can name it anything (e.g., backend, app, etc.).
-    build:      #Specifies that Docker should build an image instead of using an existing one.
-      context: . #This means the Dockerfile in this directory will be used to build the image.
-
-    image: voice_authentication-image:1.0.0 #Assigns a name to the built image and version
+services:
+  server:
+    build:
+      context: .
+    image: voice_authent-img:1.0.0
     ports:
-      - 8000:8000  #This means requests to localhost:8000 on your computer will be forwarded to port 8000 in the container
+      - 8000:8000
 
 # The commented out section below is an example of how to define a PostgreSQL
 # database that your application can use. `depends_on` tells Docker Compose to
